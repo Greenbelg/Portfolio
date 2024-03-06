@@ -1,0 +1,4 @@
+python-magic-bin;sys_platform=="win32"
+libmagic;sys_platform=="darwin"
+python-magic;sys_platform=="linux"
+libmagic;sys_platform=="linux"

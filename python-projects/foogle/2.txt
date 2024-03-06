@@ -1,0 +1,2 @@
+test, exam, moodle
+alpha, betta, gamma, x, y
